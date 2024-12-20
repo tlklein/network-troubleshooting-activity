@@ -2,8 +2,7 @@
 
 # Network Troubleshooting Hands-On Activity
 
-This repository contains a practical hands-on activity on **Network Troubleshooting** completed as part of a university course in Computer Information Systems (CIS). 
-The document demonstrates essential networking tools and techniques to diagnose and resolve network-related issues.
+This repository contains a practical hands-on activity on **Network Troubleshooting** completed as part of a university course in Computer Information Systems (CIS). The document demonstrates essential networking tools and techniques to diagnose and resolve network-related issues. The goal was to apply hands-on troubleshooting techniques to resolve real-world network problems effectively.
 
 ## Project Overview
 
@@ -41,7 +40,6 @@ This project involves completing and documenting tasks from **Hands-On Activity 
 ## About the Author
 
 This activity was completed as part of the **CIS 3367 Networking Course** at the University of Houston under Professor Jose Martinez. 
-The goal was to apply hands-on troubleshooting techniques to resolve real-world network problems effectively.
 
 ---
 
