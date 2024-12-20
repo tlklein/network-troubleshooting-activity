@@ -1,6 +1,6 @@
 ![banner](https://itflowcy.com/wp-content/uploads/2024/02/What-is-Networking-1024x683.jpg)
 
-# Network Troubleshooting Hands-On Activity
+# Network Troubleshooting Activity
 
 This repository contains a practical hands-on activity on **Network Troubleshooting** completed as part of a university course in Computer Information Systems (CIS). The document demonstrates essential networking tools and techniques to diagnose and resolve network-related issues. The goal was to apply hands-on troubleshooting techniques to resolve real-world network problems effectively.
 
