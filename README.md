@@ -39,7 +39,7 @@ This project involves completing and documenting tasks from **Hands-On Activity 
 
 ## About the Author
 
-This project was created as part of the **CIS 3347 Information Systems Infrastructure & Networks** at the University of Houston under the guidance of Professor Jose Martinez.  
+This project was created as part of the **CIS 3347 Information Systems Infrastructure & Networks** course at the University of Houston under the guidance of Professor Jose Martinez.  
 
 ---
 
