@@ -39,7 +39,7 @@ This project involves completing and documenting tasks from **Hands-On Activity 
 
 ## About the Author
 
-This activity was completed as part of the **CIS 3367 Networking Course** at the University of Houston under Professor Jose Martinez. 
+This project was created as part of the **CIS 3347 Network Design** at the University of Houston under the guidance of Professor Jose Martinez.  
 
 ---
 
