@@ -26,6 +26,7 @@ This project involves completing and documenting tasks from **Hands-On Activity 
 
 ## Project Structure
 1. Klein_Trinity_Networking Troubleshoot
+- Documentation of commands and results on a local network
 
 ## Getting Started
 
