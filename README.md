@@ -1,7 +1,6 @@
 ![banner](https://itflowcy.com/wp-content/uploads/2024/02/What-is-Networking-1024x683.jpg)
 
 # Network Troubleshooting Activity
-
 The project documents essential networking tools and techniques to diagnose and resolve network-related issues. The goal was to apply hands-on troubleshooting techniques to resolve real-world network problems effectively.
 
 ## Project Overview
@@ -24,7 +23,8 @@ It focuses on the following areas of network troubleshooting:
 
 ## Project Structure
 1. Klein_Trinity_Networking Troubleshoot
-- Documentation of commands and results on a local network
+- Documentation of ALL commands and results on a local network
 2. Screenshot 2025-01-07 232614.png
-- Shows evidence of some commands used in the document
+- Shows evidence of SOME commands used in the document
+![banner](https://github.com/tlklein/network-troubleshooting-activity/blob/main/Screenshot%202025-01-07%20232614.png?raw=true)
 
