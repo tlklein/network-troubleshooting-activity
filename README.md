@@ -22,6 +22,6 @@ It focuses on the following areas of network troubleshooting:
     - Issues with services like ELB, EC2, and RDS.
       
 ## ipconfig/all Screenshot
-- Proof of implementing ipconfig/all
+- Proof of implementing ipconfig/all, screenshoots of all commands are in the PDF document. 
 ![banner](https://github.com/tlklein/network-troubleshooting-activity/blob/main/Screenshot%202025-01-07%20232614.png?raw=true)
 
