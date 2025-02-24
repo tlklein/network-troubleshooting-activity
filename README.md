@@ -20,11 +20,8 @@ It focuses on the following areas of network troubleshooting:
     - DNS resolution and API gateway failures.
     - Misconfigurations in IAM policies and VPC settings.
     - Issues with services like ELB, EC2, and RDS.
-
-## Project Structure
-1. Klein_Trinity_Networking Troubleshoot
-- Documentation of ALL commands and results on a local network
-2. Screenshot 2025-01-07 232614.png
-- Shows evidence of SOME commands used in the document
+      
+## ipconfig/all Screenshot
+- Proof of implementing ipconfig/all
 ![banner](https://github.com/tlklein/network-troubleshooting-activity/blob/main/Screenshot%202025-01-07%20232614.png?raw=true)
 
